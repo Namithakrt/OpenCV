@@ -1,2 +1,2 @@
 # OpenCV
-This is my mini project using OpenCV
+Real-Time Face Blurring with OpenCV
